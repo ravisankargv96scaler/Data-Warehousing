@@ -1,0 +1,5 @@
+{
+  "name": "44e-DataWarehouse Explorer",
+  "description": "An interactive educational application explaining Data Warehousing, OLAP vs OLTP, Star Schemas, and Columnar Storage concepts.",
+  "requestFramePermissions": []
+}
